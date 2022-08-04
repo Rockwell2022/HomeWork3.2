@@ -1,0 +1,11 @@
+
+  
+  .preload .loaded  {
+    display: none;
+  }
+
+  .preload{
+    position: fixed;
+    top:50%;
+    left:50%;
+  }
